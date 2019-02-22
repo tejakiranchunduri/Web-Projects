@@ -1,0 +1,9 @@
+{
+  "name": "student-housing",
+  "version": "1.0.0",
+  "description": "Simple Web application for Student Housing",
+  "main": "index.js",
+  "repository": "https://github.com/tejakiranchunduri/Web-Projects/tree/master/Student%20Housing/Housing%20View",
+  "author": "Teja Kiran Chunduri <chtejakiran@outlook.com>",
+  "license": "MIT"
+}
