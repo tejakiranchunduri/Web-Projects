@@ -4,3 +4,5 @@ protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
 themes/classic/views/
+# Ignoring node_modules to avoid overhead and faster git operations
+node_modules/
