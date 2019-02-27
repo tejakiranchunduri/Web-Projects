@@ -6,3 +6,5 @@ protected/data/*.db
 themes/classic/views/
 # Ignoring node_modules to avoid overhead and faster git operations
 node_modules/
+# Ignore output dist file
+dist/
